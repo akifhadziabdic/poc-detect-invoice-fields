@@ -1,0 +1,3 @@
+id,bill_to,ship_to,invoice_no_date,sales_order_no_date,customer_vat_no,name,quantity,currency,unit_price,totals
+0,"Nuscience Belgium Booiebos 5 9031 Drongen , Belgium","Nuscience Belgium Booiebos 5 9031 Drongen , Belgium","9003719653 MAY.02,2024","C026065189/CO02606519 APR.22,2024",BE0412718370,ID_PS TRYPTOPHAN GRAN,500KG TP B (2),EUR,"7,750.00","71,850.00"
+1,"Nuscience Belgium Booiebos 5 9031 Drongen , Belgium","Nuscience Belgium Booiebos 5 9031 Drongen , Belgium","9003719653 MAY.02,2024","C026065189/CO02606519 APR.22,2024",BE0412718370,MY_KT L-ISOLEUCINE,20KG-POWDER,EUR,"8,800.00","71,850.00"
